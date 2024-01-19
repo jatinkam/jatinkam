@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://www.linkedin.com/in/jatinparihar" target="_blank">
+  <a href="www.linkedin.com/in/jatinparihar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Jatin Parihar from India 🌏 currently living in 📍Buffalo, New York.<br>I recently completed my Master's in Data Sciences and Applications from the University at Buffalo SUNY.<br>I'm looking for full-time opportunities in the field of Data.<br><br>- 🔭 I'm passionate about leveraging data to drive insights and optimize decision-making. My master's degree and projects involved applying ML and data visualization to real-world problems.<br>- 📚 I'm constantly learning and staying up-to-date on the latest data tools and technologies like Python, SQL, Tableau, AWS, etc.<br>- ⚡ Outside of data, I enjoy volunteering, reading, and exploring nature. I previously led science workshops and events in India.<br><br>I'm excited to leverage my skills in statistical modeling, data visualization, and ML to deliver data-driven solutions and insights in data-related roles. Feel free to check out my GitHub and portfolio website to learn more!</p>
+<p align="left">👩‍💻 About Me<br><br>I'm Jatin Parihar from India 🌏 currently residing in Buffalo, New York 📍. I recently completed my Master's in Data Science and Applications at the University of Buffalo, where I honed my skills in statistical modeling, machine learning, and data visualization. As a data scientist, I'm passionate about leveraging data to drive insights and optimize decision-making. <br><br>My previous experience includes developing predictive models that increased user engagement by 20% and improved recommendation accuracy by 10%. I also worked on NLP and computer vision deep learning models during my master's.<br><br>Outside of data science, I enjoy volunteering, reading non-fiction books 📚, exploring nature trails⚡, and occasionally dabbling in wildlife photography📷. I previously led science workshops for children in India and am excited to continue giving back to the community here in Buffalo. <br><br>I'm eager to apply my analytical skills, AI/ML knowledge, and problem-solving abilities to data-focused roles. Please check out my GitHub and portfolio website to learn more about my projects and experience!</p>
 
 ###
 
@@ -66,6 +66,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" alt="rstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
 ###
