@@ -20,7 +20,31 @@
 
 ###
 
-<p align="left">I'm Jatin Parihar from India 🌏 currently residing in Buffalo, New York 📍. I recently completed my Master's in Data Science and Applications at the University of Buffalo, where I honed my skills in statistical modeling, machine learning, and data visualization. As a data scientist, I'm passionate about leveraging data to drive insights and optimize decision-making. <br><br>My previous experience includes developing predictive models that increased user engagement by 20% and improved recommendation accuracy by 10%. I also worked on NLP and computer vision deep learning models during my master's.<br><br>Outside of data science, I enjoy volunteering, reading non-fiction books 📚, exploring nature trails⚡, and occasionally dabbling in wildlife photography📷. I previously led science workshops for children in India and am excited to continue giving back to the community here in Buffalo. <br><br>I'm eager to apply my analytical skills, AI/ML knowledge, and problem-solving abilities to data-focused roles. Please check out my GitHub and portfolio website to learn more about my projects and experience!</p>
+<p align="left">Hi, I’m Jatin Parihar – a data engineer and former data analyst passionate about building scalable, intelligent systems that turn raw data into meaningful impact.
+
+Currently based in Delhi, India 🇮🇳 (previously in Buffalo, NY 🇺🇸), I hold a Master’s degree in Data Science & Applications from the University at Buffalo. My professional journey includes building real-time streaming pipelines, deploying cost-efficient data solutions on AWS, and applying machine learning models to solve real-world challenges in healthcare and manufacturing.
+
+🛠 What I work with:
+
+Languages: Python, SQL, Bash, Scala
+
+Tech Stack: Apache Spark, Kafka, Airflow, Databricks, Snowflake, dbt
+
+Cloud: AWS (Glue, Redshift, Lambda, EMR)
+
+Visualization: Tableau, Power BI
+
+🚀 Recent Wins:
+
+Reduced data processing time by 30% using optimized Spark pipelines
+
+Built predictive models with 95% forecast accuracy
+
+Developed real-time ingestion pipelines, increasing data availability by 25%
+
+🌱 Outside of data: I enjoy reading non-fiction 📚, exploring nature trails 🌿, and photographing wildlife 📷. I’ve led science workshops for kids in India and remain committed to using tech for good.
+
+📂 Explore my repositories to see my latest work in machine learning, analytics, and cloud data engineering. Let’s connect and collaborate on impactful data projects!!</p>
 
 ###
 
